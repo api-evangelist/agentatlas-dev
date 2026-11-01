@@ -1,4 +1,4 @@
-# agentatlas-dev
+# AgentAtlas
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,114 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 agentatlas-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentatlas.dev/
+
+**Areas:** AI · Agents · MCP · Tools · Platform
+
+## AgentAtlas on APIs.io
+
+Everything profiled for AgentAtlas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentatlas-dev/](https://apis.io/providers/agentatlas-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [AgentAtlas MCP](https://apis.io/apis/agentatlas-dev/agentatlas-mcp/) — MCP endpoint providing tool list and other services
+- [AgentAtlas API](https://apis.io/apis/agentatlas-dev/agentatlas-dev-api/) — AgentAtlas API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostMcpRequest](https://apis.io/schemas/agentatlas-dev/agentatlas-dev-post-mcp-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentatlas Dev Context](https://apis.io/jsonld/agentatlas-dev/agentatlas-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentAtlas API Rules](https://apis.io/rules/agentatlas-dev/agentatlas-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentatlas Dev Authentication](https://apis.io/security/agentatlas-dev/agentatlas-dev-authentication/)
+- [Agentatlas Dev Domain Security](https://apis.io/security/agentatlas-dev/agentatlas-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentatlas Dev Plans Pricing](https://apis.io/plans/agentatlas-dev/agentatlas-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentatlas.dev/)
+- [Documentation](https://agentatlas.dev/guides)
+- [Getting started](https://agentatlas.dev/tools/setup-kit)
+- [Pricing](https://agentatlas.dev/pricing)
+- [Security](https://agentatlas.dev/cursorrules/security)
+
+## API Evangelist rating
+
+**Kin Score 48.0** — developing · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 45.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 52.1 |
+
+**Agent readiness 17.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentatlas-dev/](https://apis.io/providers/agentatlas-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentAtlas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentatlas-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
